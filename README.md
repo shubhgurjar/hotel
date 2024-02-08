@@ -21,7 +21,7 @@ You can access the live version of the INDORI Hotel Website by visiting [INDORI 
 ## Getting Started
 To run this project locally or make modifications, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-github-username/indori-hotel.git`
-2. Navigate to the project directory
+2. Navigate to the project directory `cd hotel`
 3. Open the `index.html` file in your preferred web browser.
 
 ## Contributing
