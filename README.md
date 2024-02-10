@@ -28,6 +28,6 @@ To run this project locally or make modifications, follow these steps:
 Contributions are welcome! If you'd like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request.
 
 ## Contact
-For any inquiries or feedback regarding the project, you can reach out to [Shubham Gurjar](mailto:shubhamgurjargs@gmail.com).
+For any inquiries or feedback regarding the project, you can contact me on Linkedin [Shubham Gurjar](https://linkedin.com/in/shubhamgurjar1).
 
 ---
