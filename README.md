@@ -24,7 +24,7 @@ To run this project locally or make modifications, follow these steps:
 2. Navigate to the project directory `cd hotel`
 3. Open the `index.html` file in your preferred web browser.
 
-## Contributing
+## Contribution
 Contributions are welcome! If you'd like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request.
 
 ## Contact
